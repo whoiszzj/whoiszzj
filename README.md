@@ -86,6 +86,7 @@ ICCV 2025
 <summary>📄 摘要</summary>
 近年来，高斯泼溅表示在高效场景建模和渲染方面展现出巨大潜力。然而，现有方法通常依赖场景特定的优化过程，在跨图像泛化能力方面仍然存在不足。本文提出 **Instant GaussianImage**，一种基于 **二维高斯表示的图像建模方法**，通过一组自适应高斯基元对图像进行紧凑表示。该方法通过高效的参数化与优化策略，实现快速训练，同时保持良好的结构和外观表达能力。实验结果表明，该方法在保证高质量图像重建的同时具有较强的泛化能力，为传统图像表示与基于高斯的神经渲染方法之间提供了一种新的统一视角。
 </details>
+
 ### 🏅 期刊论文
 
 **Matching Ambiguity-Resilient Multi-View Stereo via Adaptive Patch Deformation**  
@@ -221,6 +222,7 @@ The proposed framework enables fast optimization while preserving structural and
 By leveraging adaptive Gaussian parameterization and efficient optimization strategies, the method achieves high-quality image reconstruction and strong generalization ability across diverse image distributions. 
 Experimental results show that Instant GaussianImage provides an effective bridge between traditional image representations and Gaussian-based neural rendering techniques.
 </details>
+
 ### 🏅 Journal
 
 **Matching Ambiguity-Resilient Multi-View Stereo via Adaptive Patch Deformation**  
