@@ -50,18 +50,18 @@ Advisor: Prof. Tao Guan
 ### 🏆 CCF-A Conferences
 
 **Adaptive Patch Deformation for Textureless-Resilient Multi-View Stereo**  
-CVPR 2023
+CVPR 2023, [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Adaptive_Patch_Deformation_for_Textureless-Resilient_Multi-View_Stereo_CVPR_2023_paper.pdf), [github](https://github.com/whoiszzj/APD-MVS)
 
 **Frequency-Aware Density Control via Reparameterization for High-Quality Rendering of 3D Gaussian Splatting**  
-AAAI 2025
+AAAI 2025, [paper](https://dl.acm.org/doi/10.1609/aaai.v39i9.33066), [github](https://github.com/whoiszzj/FDS-GS)
 
 **Instant GaussianImage: A Generalizable and Self-Adaptive Image Representation via 2D Gaussian Splatting**  
-ICCV 2025
+ICCV 2025, [paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zeng_Instant_GaussianImage_A_Generalizable_and_Self-Adaptive_Image_Representation_via_2D_ICCV_2025_paper.pdf), [github](https://github.com/whoiszzj/Instant-GI)
 
 ### 🏅 Journal
 
 **Matching Ambiguity-Resilient Multi-View Stereo via Adaptive Patch Deformation**  
-Pattern Recognition (SCI Q1)
+Pattern Recognition (SCI Q1), [paper](https://www.sciencedirect.com/science/article/pii/S0031320325012567), [github](https://github.com/whoiszzj/APDe-MVS)
 
 ---
 
