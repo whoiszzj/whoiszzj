@@ -30,16 +30,9 @@
 - 新视角合成（Novel View Synthesis）
 - 大规模三维重建
 
-### 研究演进
+### 学习路线
 
 SfM → MVS → NeRF → 3DGS → GaussianImage / VGGT
-
-我目前特别关注以下研究问题：
-
-- 几何–外观解耦表示（Geometry–Appearance Decoupling）
-- 密度控制与表示重参数化（Density Control & Representation Reparameterization）
-- 弱纹理场景中的匹配歧义问题（Matching Ambiguity in Weak-Texture Scenes）
-- 高效且具有良好泛化能力的三维表示（Efficient & Generalizable 3D Representations）
 
 ---
 
@@ -158,13 +151,6 @@ My research focuses on:
 ### Research Evolution
 
 SfM → MVS → NeRF → 3DGS → GaussianImage / VGGT
-
-I am particularly interested in:
-
-- Geometry–Appearance decoupling
-- Density control & representation reparameterization
-- Matching ambiguity in weak-texture scenes
-- Efficient & generalizable 3D representations
 
 ---
 
