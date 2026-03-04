@@ -39,7 +39,11 @@ I am particularly interested in:
 School of Computer Science & Technology
 
 - B.E., Computer Science (ACM Class), 2017 – 2021  
-- M.S. → Ph.D., Computer Science, 2021 – Present
+  - Ranked Top 5% in cohort  
+  - National Scholarship (2019)
+
+- M.S., Computer Science (Recommended Admission), 2021 – 2023  
+- Ph.D., Computer Science, 2023 – Present
 
 Advisor: Prof. Tao Guan
 
