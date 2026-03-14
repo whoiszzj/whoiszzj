@@ -42,7 +42,7 @@ SfM → MVS → NeRF → 3DGS → GaussianImage / VGGT
 计算机科学与技术学院
 
 - 计算机科学与技术（ACM班） 本科，2017 – 2021  
-  - 成绩排名前 5%  
+  - 成绩排名前 5% （GPA: 3.97）
   - 国家奖学金（2019）
 
 - 计算机科学与技术 全日制学术型硕士（保研），2021 – 2023  
@@ -160,7 +160,7 @@ SfM → MVS → NeRF → 3DGS → GaussianImage / VGGT
 School of Computer Science & Technology
 
 - B.E., Computer Science (ACM Class), 2017 – 2021  
-  - Ranked Top 5% in cohort  
+  - Ranked Top 5% in cohort (GPA: 3.97)
   - National Scholarship (2019)
 
 - M.S., Computer Science (Recommended Admission), 2021 – 2023  
